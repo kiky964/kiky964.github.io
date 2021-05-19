@@ -1,0 +1,20 @@
+body{
+
+    background : url('Aesthetic\ 1.jpg')
+}
+
+tr { 
+    font-style: bold;
+color: brown;}
+
+p { 
+    color: #CD5C5C;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.rara {
+    color: rgb(207, 103, 5);
+    font-weight: bold;
+}
+.rachel {
+    background-image: url('space 1.jpeg');
+}
